@@ -1,0 +1,11 @@
+E:\c# projact\Library-management-system\LibraryUtility\bin\Debug\net8.0\LibraryUtility.deps.json
+E:\c# projact\Library-management-system\LibraryUtility\bin\Debug\net8.0\LibraryUtility.dll
+E:\c# projact\Library-management-system\LibraryUtility\bin\Debug\net8.0\LibraryUtility.pdb
+E:\c# projact\Library-management-system\LibraryUtility\obj\Debug\net8.0\LibraryUtility.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projact\Library-management-system\LibraryUtility\obj\Debug\net8.0\LibraryUtility.AssemblyInfoInputs.cache
+E:\c# projact\Library-management-system\LibraryUtility\obj\Debug\net8.0\LibraryUtility.AssemblyInfo.cs
+E:\c# projact\Library-management-system\LibraryUtility\obj\Debug\net8.0\LibraryUtility.csproj.CoreCompileInputs.cache
+E:\c# projact\Library-management-system\LibraryUtility\obj\Debug\net8.0\LibraryUtility.dll
+E:\c# projact\Library-management-system\LibraryUtility\obj\Debug\net8.0\refint\LibraryUtility.dll
+E:\c# projact\Library-management-system\LibraryUtility\obj\Debug\net8.0\LibraryUtility.pdb
+E:\c# projact\Library-management-system\LibraryUtility\obj\Debug\net8.0\ref\LibraryUtility.dll

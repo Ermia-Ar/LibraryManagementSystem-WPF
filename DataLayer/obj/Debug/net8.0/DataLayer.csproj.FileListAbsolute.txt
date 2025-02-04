@@ -1,0 +1,17 @@
+E:\c# projact\Library-management-system\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+E:\c# projact\Library-management-system\DataLayer\bin\Debug\net8.0\DataLayer.runtimeconfig.json
+E:\c# projact\Library-management-system\DataLayer\bin\Debug\net8.0\DataLayer.dll
+E:\c# projact\Library-management-system\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+E:\c# projact\Library-management-system\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+E:\c# projact\Library-management-system\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projact\Library-management-system\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+E:\c# projact\Library-management-system\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+E:\c# projact\Library-management-system\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+E:\c# projact\Library-management-system\DataLayer\obj\Debug\net8.0\DataLayer.dll
+E:\c# projact\Library-management-system\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+E:\c# projact\Library-management-system\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+E:\c# projact\Library-management-system\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
+E:\c# projact\Library-management-system\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+E:\c# projact\Library-management-system\DataLayer\bin\Debug\net8.0\ViewModels.dll
+E:\c# projact\Library-management-system\DataLayer\bin\Debug\net8.0\ViewModels.pdb
+E:\c# projact\Library-management-system\DataLayer\obj\Debug\net8.0\DataLayer.csproj.Up2Date

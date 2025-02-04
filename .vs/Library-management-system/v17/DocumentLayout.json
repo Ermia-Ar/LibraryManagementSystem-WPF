@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c# projact\\Library-management-system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8DD420-BD6D-4165-AA94-E3CC8C46C764}|Library-management-system\\Library-management-system.csproj|e:\\c# projact\\library-management-system\\library-management-system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FD8DD420-BD6D-4165-AA94-E3CC8C46C764}|Library-management-system\\Library-management-system.csproj|solutionrelative:library-management-system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8DD420-BD6D-4165-AA94-E3CC8C46C764}|Library-management-system\\Library-management-system.csproj|e:\\c# projact\\library-management-system\\library-management-system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8DD420-BD6D-4165-AA94-E3CC8C46C764}|Library-management-system\\Library-management-system.csproj|solutionrelative:library-management-system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81F3A1A-31F9-41EC-86BA-54EDD31F6893}|ViewModels\\ViewModels.csproj|e:\\c# projact\\library-management-system\\viewmodels\\bookview\\copyviewmodel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81F3A1A-31F9-41EC-86BA-54EDD31F6893}|ViewModels\\ViewModels.csproj|solutionrelative:viewmodels\\bookview\\copyviewmodel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81F3A1A-31F9-41EC-86BA-54EDD31F6893}|ViewModels\\ViewModels.csproj|e:\\c# projact\\library-management-system\\viewmodels\\bookview\\bookviewmodel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81F3A1A-31F9-41EC-86BA-54EDD31F6893}|ViewModels\\ViewModels.csproj|solutionrelative:viewmodels\\bookview\\bookviewmodel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81F3A1A-31F9-41EC-86BA-54EDD31F6893}|ViewModels\\ViewModels.csproj|e:\\c# projact\\library-management-system\\viewmodels\\bookview\\circulatedviewmodel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81F3A1A-31F9-41EC-86BA-54EDD31F6893}|ViewModels\\ViewModels.csproj|solutionrelative:viewmodels\\bookview\\circulatedviewmodel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6504DA95-8CFD-4521-AFE8-708A8D6A5580}|DataLayer\\DataLayer.csproj|e:\\c# projact\\library-management-system\\datalayer\\models\\circulated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6504DA95-8CFD-4521-AFE8-708A8D6A5580}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\models\\circulated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6504DA95-8CFD-4521-AFE8-708A8D6A5580}|DataLayer\\DataLayer.csproj|e:\\c# projact\\library-management-system\\datalayer\\services\\circulatedrecository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6504DA95-8CFD-4521-AFE8-708A8D6A5580}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\services\\circulatedrecository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CirculatedRecository.cs",
+              "DocumentMoniker": "E:\\c# projact\\Library-management-system\\DataLayer\\Services\\CirculatedRecository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Services\\CirculatedRecository.cs",
+              "ToolTip": "E:\\c# projact\\Library-management-system\\DataLayer\\Services\\CirculatedRecository.cs",
+              "RelativeToolTip": "DataLayer\\Services\\CirculatedRecository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:18:12.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circulated.cs",
+              "DocumentMoniker": "E:\\c# projact\\Library-management-system\\DataLayer\\Models\\Circulated.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Models\\Circulated.cs",
+              "ToolTip": "E:\\c# projact\\Library-management-system\\DataLayer\\Models\\Circulated.cs",
+              "RelativeToolTip": "DataLayer\\Models\\Circulated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:17:43.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CirculatedViewModel1.cs",
+              "DocumentMoniker": "E:\\c# projact\\Library-management-system\\ViewModels\\BookView\\CirculatedViewModel1.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BookView\\CirculatedViewModel1.cs",
+              "ToolTip": "E:\\c# projact\\Library-management-system\\ViewModels\\BookView\\CirculatedViewModel1.cs",
+              "RelativeToolTip": "ViewModels\\BookView\\CirculatedViewModel1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:06:07.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookViewModel1.cs",
+              "DocumentMoniker": "E:\\c# projact\\Library-management-system\\ViewModels\\BookView\\BookViewModel1.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BookView\\BookViewModel1.cs",
+              "ToolTip": "E:\\c# projact\\Library-management-system\\ViewModels\\BookView\\BookViewModel1.cs",
+              "RelativeToolTip": "ViewModels\\BookView\\BookViewModel1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:06:06.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CopyViewModel1.cs",
+              "DocumentMoniker": "E:\\c# projact\\Library-management-system\\ViewModels\\BookView\\CopyViewModel1.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BookView\\CopyViewModel1.cs",
+              "ToolTip": "E:\\c# projact\\Library-management-system\\ViewModels\\BookView\\CopyViewModel1.cs",
+              "RelativeToolTip": "ViewModels\\BookView\\CopyViewModel1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:03:10.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\c# projact\\Library-management-system\\Library-management-system\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Library-management-system\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\c# projact\\Library-management-system\\Library-management-system\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Library-management-system\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGcCAAAAAAAAAAAAAG0CAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:45:31.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\c# projact\\Library-management-system\\Library-management-system\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Library-management-system\\MainWindow.xaml",
+              "ToolTip": "E:\\c# projact\\Library-management-system\\Library-management-system\\MainWindow.xaml",
+              "RelativeToolTip": "Library-management-system\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T12:16:16.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

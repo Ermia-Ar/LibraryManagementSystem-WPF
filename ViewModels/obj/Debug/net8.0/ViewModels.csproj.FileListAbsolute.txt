@@ -1,0 +1,11 @@
+E:\c# projact\Library-management-system\ViewModels\bin\Debug\net8.0\ViewModels.deps.json
+E:\c# projact\Library-management-system\ViewModels\bin\Debug\net8.0\ViewModels.dll
+E:\c# projact\Library-management-system\ViewModels\bin\Debug\net8.0\ViewModels.pdb
+E:\c# projact\Library-management-system\ViewModels\obj\Debug\net8.0\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projact\Library-management-system\ViewModels\obj\Debug\net8.0\ViewModels.AssemblyInfoInputs.cache
+E:\c# projact\Library-management-system\ViewModels\obj\Debug\net8.0\ViewModels.AssemblyInfo.cs
+E:\c# projact\Library-management-system\ViewModels\obj\Debug\net8.0\ViewModels.csproj.CoreCompileInputs.cache
+E:\c# projact\Library-management-system\ViewModels\obj\Debug\net8.0\ViewModels.dll
+E:\c# projact\Library-management-system\ViewModels\obj\Debug\net8.0\refint\ViewModels.dll
+E:\c# projact\Library-management-system\ViewModels\obj\Debug\net8.0\ViewModels.pdb
+E:\c# projact\Library-management-system\ViewModels\obj\Debug\net8.0\ref\ViewModels.dll
